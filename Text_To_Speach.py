@@ -1,7 +1,7 @@
 import pyttsx3
 import pyjokes
 
-#Author: Sharwan jung kuwnar
+#Author: Sharwan jung kunwar
 #Purpose: To create a program which can print joke and tell
 
 
